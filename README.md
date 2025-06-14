@@ -10,7 +10,7 @@ In this session, we kicked off our web dev journey by learning the **basics of H
 
 **Bedanta Kataki**  
 📍 Student, NIT Silchar  
-👨‍💻 Taught HTML in Web Blitz '25  
+👨‍💻 Taught HTML in Web Blitz'24 organized by GDSC NIT Silchar
 🌐 [GitHub Profile](https://github.com/r4inr3aper)
 
 ---
